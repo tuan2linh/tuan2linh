@@ -1,24 +1,33 @@
-## Hi there 👋
+# Hi, I'm Linh! 👋
 
-<!--
-**tuan2linh/tuan2linh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student at **Ho Chi Minh University of Technology**, working towards becoming a **Full Stack Developer**. Here, you'll find my projects related to web development, algorithms, and more.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuan2linh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tuan2linh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tuan2linh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tuan2linh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+I'm passionate about coding and problem-solving, currently building my skills in both front-end and back-end development. I enjoy creating dynamic, responsive web applications and exploring new technologies.
 
-###
+### 🔧 Technologies & Tools:
+
+- **Languages**: JavaScript, Python, C++
+- **Front-end**: React, Redux, TailwindCSS, Sass, Bootstrap, HTML5, CSS3
+- **Back-end**: Node.js, Express.js, JWT, Mongoose
+- **Databases**: MongoDB, MySQL
+- **Tools**: Docker, Swagger, Postman, npm
+
+### 🧑‍💻 Currently Learning:
+
+- **Advanced JavaScript** and **TypeScript**.
+- **DevOps**: Kubernetes, CI/CD pipelines.
+- **Cloud Technologies**: AWS, Firebase.
+- **GraphQL**: For handling more efficient APIs.
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/linh-ho-tuan-804678294/)
+- [Email](mailto:tuanlinh2626@gmail.com)
+
+Feel free to explore my repositories, open issues, or reach out if you'd like to collaborate on a project or just have a chat about tech!
+
+---
+
+_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
