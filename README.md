@@ -14,7 +14,7 @@ I'm passionate about coding and problem-solving, currently building my skills in
 - **Databases**: MongoDB, MySQL
 - **Tools**: Swagger, Postman
 - **DevOps**:  Docker, CI/CD pipelines.
-- - **Cloud Technologies**: Microsoft Azure Web Service
+- **Cloud Technologies**: Microsoft Azure Web Service
 
 ### 🧑‍💻 Currently Learning:
 
