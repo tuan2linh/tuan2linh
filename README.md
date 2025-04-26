@@ -19,7 +19,7 @@ I'm passionate about coding and problem-solving, currently building my skills in
 ### 🧑‍💻 Currently Learning:
 
 - **Advanced JavaScript** and **TypeScript**.
-- **DevOps**: Kubernetes, CI/CD pipelines.
+- **DevOps**: Kubernetes.
 - **Cloud Technologies**: AWS, Firebase.
 - **GraphQL**: For handling more efficient APIs.
 
