@@ -12,7 +12,9 @@ I'm passionate about coding and problem-solving, currently building my skills in
 - **Front-end**: React, Redux, TailwindCSS, Sass, Bootstrap, HTML5, CSS3
 - **Back-end**: Node.js, Express.js, JWT, Mongoose
 - **Databases**: MongoDB, MySQL
-- **Tools**: Docker, Swagger, Postman, npm
+- **Tools**: Swagger, Postman
+- **DevOps**:  Docker, CI/CD pipelines.
+- - **Cloud Technologies**: Microsoft Azure Web Service
 
 ### 🧑‍💻 Currently Learning:
 
